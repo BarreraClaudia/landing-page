@@ -12,6 +12,6 @@ A responsive landing page using flexbox.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Image
+## Image Credit
 
 Photo by Tara Winstead: https://www.pexels.com/photo/thoughts-taking-different-paths-8378726/
